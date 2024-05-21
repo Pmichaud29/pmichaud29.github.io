@@ -1,4 +1,4 @@
-# Pour me joindre
+# Philippe Michaud
 
 - <micp1402@usherbrooke.ca>
 - (418) 803-0546
@@ -9,7 +9,7 @@
 
 Bienvenue dans mon portfolio. Plus bas, vous retrouverez quelques-uns de mes travaux de conception en robotique. Chaque projet démontre mes compétences techniques et mon engagement dans ce domaine passionnant. Bonne visite !
 
-- [Pour me joindre](#pour-me-joindre)
+- [Philippe Michaud](#philippe-michaud)
   - [Bienvenue](#bienvenue)
   - [Robotique UdeS - Rovus](#robotique-udes---rovus)
     - [Réalisations 2023](#réalisations-2023)
