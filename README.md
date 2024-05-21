@@ -1,8 +1,16 @@
-# Bienvenue
+# Pour me joindre
+
+- <micp1402@usherbrooke.ca>
+- (418) 803-0546
+- [linkedin](https://www.linkedin.com/in/pmichaud29/)
+- [github](https://github.com/Pmichaud29)
+
+## Bienvenue
 
 Bienvenue dans mon portfolio. Plus bas, vous retrouverez quelques-uns de mes travaux de conception en robotique. Chaque projet démontre mes compétences techniques et mon engagement dans ce domaine passionnant. Bonne visite !
 
-- [Bienvenue](#bienvenue)
+- [Pour me joindre](#pour-me-joindre)
+  - [Bienvenue](#bienvenue)
   - [Robotique UdeS - Rovus](#robotique-udes---rovus)
     - [Réalisations 2023](#réalisations-2023)
     - [Réalisations 2024](#réalisations-2024)
@@ -22,7 +30,7 @@ Bienvenue dans mon portfolio. Plus bas, vous retrouverez quelques-uns de mes tra
 
 Depuis 2 ans maintenant, je suis membre du groupe technique Robotique UdeS où nous concevons un rover martien pour la compétition [CIRC](https://circ.cstag.ca/2024/) en Alberta.
 
-<video width="500" height="400" controls> <source src="media/premier_test_propulsion.mp4" type="video/mp4"> Your browser does not support videos. </video>
+<video width="300" height="400" controls> <source src="media/premier_test_propulsion.mp4" type="video/mp4"> Your browser does not support videos. </video>
 <img src="media/45ca7d14-44ed-480f-b7ef-cd262474ab6a.jpeg" alt="drive bras" style="height:400px"/>
 
 ### Réalisations 2023
@@ -100,8 +108,8 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 - Le système d'aspiration
 - et autres.
 
-    <video width="500" height="400" controls> <source src="media/jdg_video1.mp4" type="video/mp4"> Your browser does not support videos. </video>
-    <video width="500" height="400" controls> <source src="media/jdg_video_scene.m4v" type="video/mp4"> Your browser does not support videos. </video>
+    <video width="300" height="400" controls> <source src="media/jdg_video1.mp4" type="video/mp4"> Your browser does not support videos. </video>
+    <video width="400" height="400" controls> <source src="media/jdg_video_scene.m4v" type="video/mp4"> Your browser does not support videos. </video>
 
 ### Résultat
 
