@@ -30,8 +30,12 @@ Bienvenue dans mon portfolio. Plus bas, vous retrouverez quelques-uns de mes tra
 
 Depuis 2 ans maintenant, je suis membre du groupe technique Robotique UdeS où nous concevons un rover martien pour la compétition [CIRC](https://circ.cstag.ca/2024/) en Alberta.
 
-<img src="media/45ca7d14-44ed-480f-b7ef-cd262474ab6a.jpeg" alt="drive bras" style="height:400px"/>
-<video width="400" height="400" controls> <source src="media/premier_test_propulsion.mp4" type="video/mp4"> Your browser does not support videos. </video>
+<div style="display: flex; align-items: center;">
+    <img src="media/45ca7d14-44ed-480f-b7ef-cd262474ab6a.jpeg" alt="drive bras" style="height:400px; margin-right: 10px;"/>
+    <video width="400" height="400" controls muted>
+        <source src="media/premier_test_propulsion.mp4" type="video/mp4">
+    </video>
+</div>
 
 ### Réalisations 2023
 
@@ -56,15 +60,20 @@ Pour l'édition 2024, je suis maintenant co-directeur du projet avec [Alexandre 
 ![architecture de contrôle](media/architecture_rovus.png)
 
 - Développement d'un protocole de communication CanBus ainsi qu'une bibliothèque multiplateforme (Linux et ESP32) permettant la création de messages personnalisés et offrant une interface simple pour les membres de l'équipe tout en utilisant une communication fiable entre les microcontrôleurs et l'ordinateur de bord du rover. [Si vous êtes curieux, voici le code source.](https://github.com/robotique-udes/rover_micro/tree/release/circ2024/lib/rover_can_lib/include)
-![Can Lib new msg example](media/rover_can_lib_new_msg_example.gif)
+
+<video width="400" height="400" controls muted> <source src="media/rover_can_lib_new_msg_example.webm" type="video/webm"> Your browser does not support videos. </video>
+
+<!-- ![Can Lib new msg example](media/rover_can_lib_new_msg_example.gif) -->
 
 #### PCB
 
 - Drive de moteur DC 30V, ~30A continue CanBus, ESP32-S3 avec deux entrées d'encodeurs pour permettre un contrôle bas niveau limitant le backlash des joints du bras robotique.
 
-    <img src="media/Screenshot%20from%202024-05-20%2023-42-54.png" alt="drive bras" style="width:200px;"/>
-    <img src="media/Screenshot from 2024-05-20 23-43-10.png" alt="drive bras" style="width:280px;"/>
+<div style="display: flex; align-items: center;">
+    <img src="media/Screenshot%20from%202024-05-20%2023-42-54.png" alt="drive bras" style="width:200px; margin-right: 10px;"/>
+    <img src="media/Screenshot from 2024-05-20 23-43-10.png" alt="drive bras" style="width:280px; margin-right: 10px;"/>
     <img src="media/Screenshot from 2024-05-20 23-43-18.png" alt="drive bras" style="width:273px;"/>
+</div>
 
 - Data distribution board (Shield ESP32):
   - Injecteurs POE 12V pour caméras IP.
@@ -75,13 +84,19 @@ Pour l'édition 2024, je suis maintenant co-directeur du projet avec [Alexandre 
   - Interrupteur high side pour l'injecteur 12V des caméras IP pour permettre un meilleur contrôle de la bande passante.
   - et autres.
 
-    <img src="media/Screenshot from 2024-05-20 23-43-44.png" alt="drive bras" style="width:350px;"/>
+<div style="display: flex; align-items: center;">
+    <img src="media/Screenshot from 2024-05-20 23-43-44.png" alt="drive bras" style="width:350px; margin-right: 10px;"/>
+    <img src="media/ddb.jpeg" alt="drive bras" style="width:350px;"/>
+</div>
 
 - Dev Board ESP32 pour le GPS ainsi que le magnétomètre du rover.
 
+<div style="display: flex; align-items: center;">
     <img src="media/Screenshot from 2024-05-20 23-45-15.png" alt="drive bras" style="width:200px;"/>
     <img src="media/Screenshot from 2024-05-21 00-00-01.png" alt="drive bras" style="width:167px;"/>
     <img src="media/Screenshot from 2024-05-20 23-45-23.png" alt="drive bras" style="width:152px;"/>
+    <img src="media/gps.jpeg" alt="drive bras" style="width:200px;"/>
+</div>
 
 ### Résultats
 
@@ -108,8 +123,10 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 - Le système d'aspiration
 - et autres.
 
-    <video width="300" height="400" controls> <source src="media/jdg_video1.mp4" type="video/mp4"> Your browser does not support videos. </video>
-    <video width="400" height="400" controls> <source src="media/jdg_video_scene.m4v" type="video/mp4"> Your browser does not support videos. </video>
+<div style="display: flex; align-items: center;">
+    <video width="300" height="400" controls muted> <source src="media/jdg_video1.mp4" type="video/mp4"> Your browser does not support videos. </video>
+    <video width="400" height="400" controls muted> <source src="media/jdg_video_scene.m4v" type="video/mp4"> Your browser does not support videos. </video>
+</div>
 
 ### Résultat
 
@@ -125,10 +142,12 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 
 Encore responsable de la programmation, ces compétitions sont un sprint d'intégration de capteurs et d'actuateurs assez simples. Il s'agit donc de tirer le meilleur du matériel et de se donner le meilleur contrôle possible avec notre modeste interface graphique.
 
-<video height="200" controls> <source src="media/430841381_7246077925460069_4552138759987374999_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
-<video height="200" controls> <source src="media/430877584_25156527453961318_5479021671167666160_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
+<div style="display: flex; align-items: center;">
+<video height="200" controls muted> <source src="media/430841381_7246077925460069_4552138759987374999_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
+<video height="200" controls muted> <source src="media/430877584_25156527453961318_5479021671167666160_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
 
-<video width="200" controls> <source src="media/430870198_7222277981188438_4202924515055319083_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
+<video width="200" controls muted> <source src="media/430870198_7222277981188438_4202924515055319083_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
+</div>
 
 ### Résultats CQI/CEC
 
