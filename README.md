@@ -30,7 +30,8 @@ Bienvenue dans mon portfolio. Plus bas, vous retrouverez quelques-uns de mes tra
 
 Depuis 2 ans maintenant, je suis membre du groupe technique Robotique UdeS où nous concevons un rover martien pour la compétition [CIRC](https://circ.cstag.ca/2024/) en Alberta.
 
-<video width="300" height="400" controls> <source src="media/premier_test_propulsion.mp4" type="video/mp4"> Your browser does not support videos. </video> <img src="media/45ca7d14-44ed-480f-b7ef-cd262474ab6a.jpeg" alt="drive bras" style="height:400px"/>
+<img src="media/45ca7d14-44ed-480f-b7ef-cd262474ab6a.jpeg" alt="drive bras" style="height:400px"/>
+<video width="400" height="400" controls> <source src="media/premier_test_propulsion.mp4" type="video/mp4"> Your browser does not support videos. </video>
 
 ### Réalisations 2023
 
@@ -113,8 +114,6 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 ### Résultat
 
 - 1ère place
-
----
 
 ## Compétition Canadienne et Québécoise d'ingénierie - Conception senior
 
