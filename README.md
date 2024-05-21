@@ -61,7 +61,9 @@ Pour l'édition 2024, je suis maintenant co-directeur du projet avec [Alexandre 
 
 - Développement d'un protocole de communication CanBus ainsi que d'une librairie multiplateforme (Linux et ESP32) permettant la création de messages personnalisés et offrant une interface simple pour les membres de l'équipe tout en utilisant une communication fiable entre les microcontrôleurs et l'ordinateur de bord du rover. [Si vous êtes curieux, voici le code source.](https://github.com/robotique-udes/rover_micro/tree/release/circ2024/lib/rover_can_lib/include)
 
-<video width="400" height="400" controls muted> <source src="media/rover_can_lib_new_msg_example.webm" type="video/webm"> Your browser does not support videos. </video>
+<div style="display: flex; align-items: center;">
+  <video width="1200" controls muted> <source src="media/rover_can_lib_new_msg_example.webm" type="video/webm"> Your browser does not support videos. </video>
+</div>
 
 <!-- ![Can Lib new msg example](media/rover_can_lib_new_msg_example.gif) -->
 
