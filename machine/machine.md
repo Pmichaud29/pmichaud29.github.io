@@ -1,4 +1,4 @@
-[<-- Retour à l’accueil](/index.md)
+[< Retour à l’accueil](/index.html)
 
 --------------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Voici la vidéo de présentation:
 
 --------------------------------------------------------------------------------
 
-[<-- Retour à l’accueil](/index.md)
+[< Retour à l’accueil](/index.html)

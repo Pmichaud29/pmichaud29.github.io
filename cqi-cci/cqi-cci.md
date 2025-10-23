@@ -1,4 +1,4 @@
-[<-- Retour à l’accueil](/index.md)
+[< Retour à l’accueil](/index.html)
 
 --------------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Encore responsable de la programmation, ces compétitions sont un sprint d'inté
 
 --------------------------------------------------------------------------------
 
-[<-- Retour à l’accueil](/index.md)
+[< Retour à l’accueil](/index.html)

@@ -1,4 +1,4 @@
-[<-- Retour à l’accueil](/index.md)
+[< Retour à l’accueil](/index.html)
 
 --------------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ L’objectif de l’année 2025 était d’améliorer la fiabilité et d’optim
 
 --------------------------------------------------------------------------------
 
-[<-- Retour à l’accueil](/index.md)
+[< Retour à l’accueil](/index.html)
