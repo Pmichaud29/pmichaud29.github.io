@@ -23,33 +23,33 @@ Encore responsable de la programmation, ces compétitions sont un sprint d'inté
 Voici quelques vidéos de la solution robotique concu en 8 heures qui a gagné la compétition canadienne d'ingéniérie 2024:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <video controls src="media/media6.mp4" title="Mode autonome avec asservissement avec la distance du mur" style="transform: rotate(90deg); height: 600px">
+    <video controls src="media/media6.mp4" title="Mode autonome avec asservissement sur la distance du mur" style="transform: rotate(90deg); height: 600px">
     </video>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <video controls src="media/media5.mp4" title="">
+    <video controls src="media/media5.mp4" title="" style="height: 600px;">
     </video>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <video controls src="media/media1.mp4" title=""></video>
+    <video controls src="media/media1.mp4" title="" style="height: 600px;">></video>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <video controls src="media/media2.mp4" title=""></video>
+    <video controls src="media/media2.mp4" title="" style="height: 600px;">></video>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <video controls src="media/media3.mp4" title=""></video> 
+    <video controls src="media/media3.mp4" title=" style="height: 600px;">"></video> 
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <video controls src="media/media4.mp4" title=""></video>
+    <video controls src="media/media4.mp4" title="" style="height: 600px;">></video>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <video controls src="media/media7.mp4" title=""></video>
+    <video controls src="media/media7.mp4" title="" style="height: 600px;">></video>
 </div>
 
 --------------------------------------------------------------------------------
