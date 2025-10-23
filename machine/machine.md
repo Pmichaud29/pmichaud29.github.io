@@ -14,7 +14,6 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 
 - L'intégration du PCB Teensy 4.1
 - Le système de navigation autonome
-
   - Dead reckoning à l'aide de microswitches et de capteurs optiques de souris pour obtenir une odométrie précise même avec des roues omnidirectionnelles.
 
 - Communication Wi-Fi entre les deux robots ESP32
@@ -36,11 +35,11 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 
 Pilote et responsable de la programmation, j'ai implémenté tous les fonctionnalitées logicielles des deux robots ainsi que les "mini stations".
 
-Notre solution robotique consistant en un robot pour ramasser les cônes, un pour déployer les mini stations et les 5 minis stations.
+Notre solution robotique consistait en 2 robot: un pour ramasser les cônes et un pour déployer les 5 minis stations
 
-Mes tâches ont consisté à implémenter le contrôles des deux robots Teensy 4.1 ainsi que d'adapter la _code base_ Teensy sur ESP32 pour les mini-stations. Le plus gros du travail à été d'optimiser la logique de transfère de passagés (led) manuelle, semi-automatique et automatique ainsi que l'interface de contrôle qui était hébergé sur une des mini-stations.
+Mes tâches ont consisté à implémenter le contrôles des deux robots Teensy 4.1 ainsi que d'adapter la *code base* Teensy sur ESP32 pour les mini-stations. Le plus gros du travail à été d'optimiser la logique de transfère de passagés (led) manuelle, semi-automatique et automatique ainsi que l'interface de contrôle qui était hébergé sur une des mini-stations.
 
-Voici la vidéo humoristque de présentation:
+Voici la vidéo de présentation:
 
 <iframe width="560" height="315" src="https://youtu.be/i9OlbP5M6kw?si=4Oal1ROzuvUyzO4H&amp;t=177" frameborder="0" allowfullscreen="">
 </iframe>
