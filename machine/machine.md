@@ -32,8 +32,8 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 - et autres.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<video width="300" height="400" controls="" muted=""><source src="media/jdg_video1.mp4" type="video/mp4"> Your browser does not support videos. </video>
-<video width="400" height="400" controls="" muted=""><source src="media/jdg_video_scene.m4v" type="video/mp4"> Your browser does not support videos. </video>
+<video height="400" controls="" muted=""><source src="media/jdg_video1.mp4" type="video/mp4"> Your browser does not support videos. </video>
+<video height="400" controls="" muted=""><source src="media/jdg_video_scene.m4v" type="video/mp4"> Your browser does not support videos. </video>
 </div>
 
 ## Mon rôle dans l'équipe de Sherbrooke 2025
