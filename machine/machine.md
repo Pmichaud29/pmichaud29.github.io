@@ -20,16 +20,12 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 - L'intégration du PCB Teensy 4.1
 - Le système de navigation autonome
   - Dead reckoning à l'aide de microswitches et de capteurs optiques de souris pour obtenir une odométrie précise même avec des roues omnidirectionnelles.
-
-- Communication Wi-Fi entre les deux robots ESP32
-
+- La communication Wi-Fi entre les deux robots
 - Le système de propulsion
-
 - Le contrôle du bras
-
 - Le système de crémaillères
 - Le système d'aspiration
-- et autres.
+- etc.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <video height="400" controls="" muted=""><source src="media/jdg_video1.mp4" type="video/mp4"> Your browser does not support videos. </video>
@@ -46,8 +42,10 @@ Mes tâches ont consisté à implémenter le contrôles des deux robots Teensy 4
 
 Voici la vidéo de présentation:
 
-<iframe width="560" height="315" src="https://youtu.be/i9OlbP5M6kw?si=4Oal1ROzuvUyzO4H&amp;t=177" frameborder="0" allowfullscreen="">
-</iframe>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <video controls src="media/MachineUdeS2025-pertinant.mp4" title="Vidéo machine 2025" style="width: 800px">
+    </video>
+</div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/interface.png" alt="Interface de contrôle pour la gestin des passagers">
