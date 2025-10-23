@@ -7,20 +7,22 @@
 Depuis 2022, je fais partie du groupe technique Rovus dans Robotique UdeS, où nous concevons un rover martien destiné à la compétition [*CIRC*](https://circ.cstag.ca/2024/) en Alberta. Je m’y implique depuis maintenant trois ans, dont les deux dernières à titre de co-directeur du projet ainsi que responsable de l’électronique et de la programmation.
 
 <div style="display: flex; align-items: center;">
-  <img src="media/rover-2025.jpeg" alt="drive bras" style="height:400px; margin-right: 10px;">
+  <img src="media/rover-2025.jpeg" alt="drive bras" style="height:300px; margin-right: 10px;">
 
-  <img src="media/rover-arm-2025.jpg" alt="drive bras" style="height:400px; margin-right: 10px;">
+  <img src="media/rover-arm-2025.jpg" alt="drive bras" style="height:300px; margin-right: 10px;">
 
-</video></div>
+</div>
 
 ## Résultats
 
-- CIRC2025: À voir!
-- CIRC2024: 5e place internationale, 2e place canadienne
+- CIRC2025: **336 points** --> 5e place internationale, 2e place canadienne
+- CIRC2024: **147 points** --> 5e place internationale, 2e place canadienne
 - CRQRC2024: 1ère place
-- CIRC2023: 5e place internationale, 2e place canadienne
+- CIRC2023: **154 points** --> 5e place internationale, 2e place canadienne
 
--Photo Compé-
+<div style="display: flex; align-items: center;">
+  <img src="media/received_782420090900139.jpeg" alt="1ère place à l'épreuve de dexterité de bras à l'édition 2025">
+</div>
 
 ## Réalisations 2023
 
