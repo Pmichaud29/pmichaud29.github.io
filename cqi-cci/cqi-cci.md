@@ -10,18 +10,47 @@
 
 ## Résultats CQI/CEC
 
-- 1ère place à la Compétition québécoise d'ingénierie 2025
-- 1ère place à la Compétition québécoise d'ingénierie 2024
-- 1ère place à la Compétition canadienne d'ingénierie 2024
+- 🥇 1ère place à la Compétition canadienne d'ingénierie 2024
+- 🥇 1ère place à la Compétition québécoise d'ingénierie 2025
+- 🥇 1ère place à la Compétition québécoise d'ingénierie 2024
 
 ## Mon rôle
 
 Encore responsable de la programmation, ces compétitions sont un sprint d'intégration de capteurs et d'actuateurs assez simples. Il s'agit donc de tirer le meilleur du matériel et de se donner le meilleur contrôle possible avec notre modeste interface graphique.
 
-<div style="display: flex; align-items: center;"><video height="200" controls="" muted=""><source src="media/430841381_7246077925460069_4552138759987374999_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
-<video height="200" controls="" muted=""><source src="media/430877584_25156527453961318_5479021671167666160_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
+## Galerie
 
-<video width="200" controls="" muted=""><source src="media/430870198_7222277981188438_4202924515055319083_n.mp4" type="video/mp4"> Your browser does not support videos. </video></div>
+Voici quelques vidéos de la solution robotique concu en 8 heures qui a gagné la compétition canadienne d'ingéniérie 2024:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <video controls src="media/media6.mp4" title="Mode autonome avec asservissement avec la distance du mur" style="transform: rotate(90deg); height: 600px">
+    </video>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <video controls src="media/media5.mp4" title="">
+    </video>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <video controls src="media/media1.mp4" title=""></video>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <video controls src="media/media2.mp4" title=""></video>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <video controls src="media/media3.mp4" title=""></video> 
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <video controls src="media/media4.mp4" title=""></video>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <video controls src="media/media7.mp4" title=""></video>
+</div>
 
 --------------------------------------------------------------------------------
 

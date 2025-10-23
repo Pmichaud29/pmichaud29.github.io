@@ -8,8 +8,8 @@ Depuis 2022, je fais partie du groupe technique Rovus au sein de Robotique UdeS,
 Je m’y implique depuis maintenant trois ans, dont les deux dernières à titre de co-directeur du projet ainsi que responsable de l’électronique et de la programmation.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="media/rover-2025.jpeg" alt="rover 2025" style="height:300px; margin-right: 10px;">
-  <img src="media/rover-arm-2025.jpg" alt="bras robotique du rover" style="height:300px;">
+  <img src="media/rover-2025.jpeg" alt="rover 2025" style="height:400px; margin-right: 10px;">
+  <img src="media/rover-arm-2025.jpg" alt="bras robotique du rover" style="height:400px;">
 </div>
 
 ## Résultats
