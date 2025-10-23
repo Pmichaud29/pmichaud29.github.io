@@ -8,6 +8,11 @@
 
 "[La] Machine est un défi parmi les plus difficiles à relever lors des Jeux de Génie. Le but : fabriquer une machine robotique intelligente qui surmontera les diverses épreuves d'un parcours prédéterminé en un temps donné. Durant les quatre mois précédant l'évènement, les équipes devront y mettre temps, ingéniosité et créativité afin de respecter les attentes des juges tout en respectant les devis. Les personnes participantes devront mettre à profit leurs connaissances acquises en ingénierie en plus d'administrer un budget consacré à l'achat des ressources afin de concrétiser leurs idées devant public et médias." -<https://jeuxdegenie.qc.ca/competitions/>
 
+## Résultat
+
+- 🥇 1ère place 2024
+- 🥇 1ère place 2025
+
 ## Mon rôle dans l'équipe de Sherbrooke 2024
 
 Responsable de la programmation, j'ai implémenté la majorité des fonctionnalités des deux robots, ceci comprend entre autres :
@@ -26,7 +31,7 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 - Le système d'aspiration
 - et autres.
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <video width="300" height="400" controls="" muted=""><source src="media/jdg_video1.mp4" type="video/mp4"> Your browser does not support videos. </video>
 <video width="400" height="400" controls="" muted=""><source src="media/jdg_video_scene.m4v" type="video/mp4"> Your browser does not support videos. </video>
 </div>
@@ -44,12 +49,17 @@ Voici la vidéo de présentation:
 <iframe width="560" height="315" src="https://youtu.be/i9OlbP5M6kw?si=4Oal1ROzuvUyzO4H&amp;t=177" frameborder="0" allowfullscreen="">
 </iframe>
 
-- Photos interface + machines -
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="media/interface.png" alt="Interface de contrôle pour la gestin des passagers">
+</div>
 
-## Résultat
-
-- 1ère place 2024
-- 1ère place 2025
+![alt text](media/image.png)
+![alt text](media/image-3.png)
+![alt text](media/image-1.png)
+![alt text](media/image-2.png)
+![alt text](media/image-4.png)
+![alt text](media/image-5.png)
+![alt text](media/image-6.png)
 
 --------------------------------------------------------------------------------
 
