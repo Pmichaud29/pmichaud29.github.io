@@ -1,4 +1,4 @@
-[< Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index.html)
 
 --------------------------------------------------------------------------------
 
@@ -6,4 +6,4 @@ En construction
 
 --------------------------------------------------------------------------------
 
-[< Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index.html)
