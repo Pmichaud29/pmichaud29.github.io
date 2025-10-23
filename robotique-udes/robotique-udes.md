@@ -7,7 +7,7 @@
 Depuis 2022, je fais partie du groupe technique Rovus au sein de Robotique UdeS, où nous concevons un rover martien destiné à la compétition [*CIRC*](https://circ.cstag.ca/2024/) en Alberta.  
 Je m’y implique depuis maintenant trois ans, dont les deux dernières à titre de co-directeur du projet ainsi que responsable de l’électronique et de la programmation.
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/rover-2025.jpeg" alt="rover 2025" style="height:300px; margin-right: 10px;">
   <img src="media/rover-arm-2025.jpg" alt="bras robotique du rover" style="height:300px;">
 </div>
@@ -19,8 +19,8 @@ Je m’y implique depuis maintenant trois ans, dont les deux dernières à titre
 - CRQRC 2024 : 1re place  
 - CIRC 2023 : 154 points → 5e place internationale, 2e place canadienne
 
-<div style="display: flex; align-items: center;">
-  <img src="media/received_782420090900139.jpeg" alt="1re place à l’épreuve de dextérité de bras à l’édition 2025">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="media/received_782420090900139.jpeg" alt="1re place à l’épreuve de dextérité du bras à l’édition 2025">
 </div>
 
 ## Réalisations 2023
@@ -38,7 +38,7 @@ Pour l’édition 2023, j’étais responsable du contrôle. Voici quelques tâc
 
 ## Réalisations 2024
 
-Pour l’édition 2024, je suis devenu co-directeur du projet avec [Alexandre Baril](https://4lexandrb.github.io/index.html). Voici quelques réalisations dont je suis particulièrement fier :
+Pour l’édition 2024, je suis devenu co-directeur du projet. Voici quelques réalisations dont je suis particulièrement fier :
 
 ### Programmation
 
@@ -55,7 +55,7 @@ Pour l’édition 2024, je suis devenu co-directeur du projet avec [Alexandre Ba
   - Deux entrées d’encodeurs pour un contrôle bas-niveau limitant le jeu mécanique des joints  
   - Deux boutons de jog manuel pour les joints autobloquants et la calibration de l’encodeur absolu
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/Screenshot%20from%202024-05-20%2023-42-54.png" alt="drive bras" style="width:200px; margin-right: 10px;">
   <img src="media/Screenshot from 2024-05-20 23-43-10.png" alt="drive bras" style="width:200px; margin-right: 10px;">
   <img src="media/drive27A.jpg" alt="drive bras" style="width:200px;">
@@ -68,20 +68,20 @@ Pour l’édition 2024, je suis devenu co-directeur du projet avec [Alexandre Ba
   - Injecteurs PoE 12 V pour caméras IP  
   - Injecteurs PoE 24 V pour modems 900 MHz et 2.4 GHz  
   - Multiples sorties 5 V et CanBus pour les autres PCB  
-  - Protection contre les surtensions et sous-tensions (5 V, 12 V et 24 V)  
-  - Interrupteur low side pour les lumières et le klaxon  
-  - Interrupteur high side pour l’injecteur 12 V des caméras IP afin de mieux gérer la bande passante  
-  - Et plus encore
+  - Protection contre les surtensions et sous-tensions
+  - Low side switch pour les lumières et le klaxon  
+  - High side switch pour l’injecteur 12 V des caméras IP afin de mieux gérer la bande passante
 
-<div style="display: flex; align-items: center;">
-  <img src="media/Screenshot from 2024-05-20 23-43-44.png" alt="data board" style="width:350px; margin-right: 10px;">
-  <img src="media/ddb.jpeg" alt="data board" style="width:350px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="media/Screenshot from 2024-05-20 23-43-44.png" alt="data board" style="height: 300px; margin-right: 10px;">
+  <img src="media/ddb.jpeg" alt="data board" style="height: 300px;">
 </div>
 
-- Carte de développement ESP32 CanBus pour le GPS et le magnétomètre du rover.
+- Devboard ESP32 CanBus pour le GPS et le magnétomètre du rover.
 
-<div style="display: flex; align-items: center;">
-  <img src="media/gps.jpeg" alt="GPS board" style="width:200px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="media/gps.jpeg" alt="GPS board" style="height: 300px;">
+  <img src="media/Screenshot from 2024-05-21 00-00-01.png" alt="IMU" style="height: 300px">
 </div>
 
 ## Réalisations 2025
@@ -97,13 +97,38 @@ L’objectif de l’année 2025 était d’améliorer la fiabilité et d’optim
 - Mise en place d’un pipeline CI/CD et de tests automatisés.  
 - Refonte complète de l’interface utilisateur en Qt6.
 
-*(Photos avant/après à insérer)*
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <video height="400" controls muted>
+    <source src="media/arm-test-circ2025.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <video height="400" controls muted>
+    <source src="media/rover-driving-circ2025.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ### PCB
 
 - Refonte complète de la boîte électrique pour réduire son encombrement et son poids : deux fois moins d’espace occupé et quatre fois plus légère.
 
-*(Photos avant/après à insérer)*
+## Galerie
+--------------------------------------------------------------------------------
+
+![1391084798-rovus.jpg](media/45ca7d14-44ed-480f-b7ef-cd262474ab6a.jpeg)
+![alt text](media/1391084798-rovus.jpg)
+![alt text](media/circ2024.jpeg)
+![alt text](media/csa-0.jpeg)
+![alt text](media/20250814_0963.jpg)
+![alt text](media/20250814_0967.jpg)
+![alt text](media/20250814_0971.jpg)
+![alt text](media/20250814_0977.jpg)
+![alt text](media/20250814_0992.jpg)
+![alt text](media/20250814_1003.jpg)
+![alt text](media/20250814_1008.jpg)
+![alt text](media/20250814_1032.jpg)
+![alt text](media/received_1418764759424300.jpeg)
 
 --------------------------------------------------------------------------------
 

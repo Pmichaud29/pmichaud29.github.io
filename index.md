@@ -15,7 +15,7 @@ Bienvenue dans mon portfolio ! Vous découvrirez ci-dessous quelques-uns de mes 
 
 <div style="display: flex; align-items: center;">
   <a href="robotique-udes/robotique-udes.html">
-  <img src="robotique-udes/media/circ2024.jpeg" alt="Rover à la compétition CIRC2024">
+  <img src="robotique-udes/media/rover-2025.jpeg" alt="Rover à la compétition CIRC2024">
 </a>
 </div>
 
