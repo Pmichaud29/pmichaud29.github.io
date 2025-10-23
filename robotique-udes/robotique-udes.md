@@ -1,10 +1,16 @@
+[<-- Retour à l’accueil](/index.md)
+
+--------------------------------------------------------------------------------
+
 # Robotique UdeS - Rovus
 
-Depuis 2022, je suis membre du groupe technique Robotique UdeS où nous concevons un rover martien pour la compétition [CIRC](https://circ.cstag.ca/2024/) en Alberta.
+Depuis 2022, je fais partie du groupe technique Rovus dans Robotique UdeS, où nous concevons un rover martien destiné à la compétition [*CIRC*](https://circ.cstag.ca/2024/) en Alberta. Je m’y implique depuis maintenant trois ans, dont les deux dernières à titre de co-directeur du projet ainsi que responsable de l’électronique et de la programmation.
 
-<div style="display: flex; align-items: center;"><img src="media/45ca7d14-44ed-480f-b7ef-cd262474ab6a.jpeg" alt="drive bras" style="height:400px; margin-right: 10px;">
-    <video width="400" height="400" controls="" muted="">
-  <source src="media/premier_test_propulsion.mp4" type="video/mp4">
+<div style="display: flex; align-items: center;">
+  <img src="media/rover-2025.jpeg" alt="drive bras" style="height:400px; margin-right: 10px;">
+
+  <img src="media/rover-arm-2025.jpg" alt="drive bras" style="height:400px; margin-right: 10px;">
+
 </video></div>
 
 ## Résultats
@@ -105,3 +111,7 @@ L'objectif de l'année 2025 était d'améliorer la fiabilité et d'optimiser les
 - Overhaul complet de la boite électrique pour réduire son emprunte et son poid, prend maintenant 2x moins d'espace et est 4 fois plus léger.
 
 -Photo Avant/Après + Photos avec tous les PCBs-
+
+--------------------------------------------------------------------------------
+
+[<-- Retour à l’accueil](/index.md)

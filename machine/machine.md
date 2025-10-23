@@ -1,3 +1,7 @@
+[<-- Retour à l’accueil](/index.md)
+
+--------------------------------------------------------------------------------
+
 # Jeux de génie - La Machine
 
 ## C'est quoi La Machine ?
@@ -47,3 +51,7 @@ Voici la vidéo humoristque de présentation:
 
 - 1ère place 2024
 - 1ère place 2025
+
+--------------------------------------------------------------------------------
+
+[<-- Retour à l’accueil](/index.md)

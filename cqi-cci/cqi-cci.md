@@ -1,3 +1,7 @@
+[<-- Retour à l’accueil](/index.md)
+
+--------------------------------------------------------------------------------
+
 # Compétition Canadienne et Québécoise d'ingénierie - Conception senior
 
 ## C'est quoi l'épreuve de conception senior?
@@ -18,3 +22,7 @@ Encore responsable de la programmation, ces compétitions sont un sprint d'inté
 <video height="200" controls="" muted=""><source src="media/430877584_25156527453961318_5479021671167666160_n.mp4" type="video/mp4"> Your browser does not support videos. </video>
 
 <video width="200" controls="" muted=""><source src="media/430870198_7222277981188438_4202924515055319083_n.mp4" type="video/mp4"> Your browser does not support videos. </video></div>
+
+--------------------------------------------------------------------------------
+
+[<-- Retour à l’accueil](/index.md)

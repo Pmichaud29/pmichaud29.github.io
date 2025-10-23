@@ -7,11 +7,11 @@
 
 ## Bienvenue
 
-Bienvenue dans mon portfolio. Plus bas, vous retrouverez quelques-uns de mes travaux de conception en robotique. Chaque projet démontre mes compétences techniques et mon engagement dans ce domaine passionnant. Bonne visite !
+Bienvenue dans mon portfolio ! Vous découvrirez ci-dessous quelques-uns de mes projets de conception en robotique. Ils ont été réalisés en grande partie en équipe, mais les éléments présentés mettent en lumière mes contributions personnelles. Bonne visite!
 
 ## Project et Compétitions
 
-[Groupe Technique Rovus - Robotique UdeS](robotique-udes/robotique-udes.md)
+[Groupe technique Rovus – Robotique UdeS](robotique-udes/robotique-udes.md)
 
 <div style="display: flex; align-items: center;">
   <a href="robotique-udes/robotique-udes.html">
@@ -21,7 +21,7 @@ Bienvenue dans mon portfolio. Plus bas, vous retrouverez quelques-uns de mes tra
 
 --------------------------------------------------------------------------------
 
-[Jeux de génie - La Machine](machine/machine.md)
+[Jeux de génie – La Machine](machine/machine.md)
 
 <div style="display: flex; align-items: center;">
   <a href="machine/machine.html">
@@ -31,10 +31,14 @@ Bienvenue dans mon portfolio. Plus bas, vous retrouverez quelques-uns de mes tra
 
 --------------------------------------------------------------------------------
 
-[Compétition canadienne et quebecoise d'ingénierie - Épreuve de conception sénior](cqi-cci/cqi-cci.md)
+[Compétition canadienne et québécoise d’ingénierie – Épreuve de conception sénior](cqi-cci/cqi-cci.md)
 
 <div style="display: flex; align-items: center;">
   <a href="cqi-cci/cqi-cci.html">
   <img src="cqi-cci/media/cci-2024.jpg" alt="1er place à la compétition canadienne d'ingénierie 2024">
 </a>
 </div>
+
+--------------------------------------------------------------------------------
+
+[Projet majeur de conception (PMC)](pmc/pmc.md)
