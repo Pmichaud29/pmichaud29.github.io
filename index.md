@@ -41,4 +41,10 @@ Bienvenue dans mon portfolio ! Vous découvrirez ci-dessous quelques-uns de mes 
 
 --------------------------------------------------------------------------------
 
-[Projet majeur de conception (PMC)](pmc/pmc.md)
+[Projet majeur de conception - ROSIE](pmc/pmc.md)
+
+<div style="display: flex; align-items: center;">
+  <a href="pmc/pmc.html">
+  <img src="pmc/media/image-0.jpg" alt="Projet majeur de conception">
+</a>
+</div>
