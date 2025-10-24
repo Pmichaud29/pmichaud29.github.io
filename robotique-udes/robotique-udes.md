@@ -1,6 +1,14 @@
-[↩ Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index)
 
 --------------------------------------------------------------------------------
+
+### Table des matières
+
+- [Résultats](#r%C3%A9sultats)
+- [Réalisations 2023](#r%C3%A9alisations-2023)
+- [Réalisations 2024](#r%C3%A9alisations-2024)
+- [Réalisations 2025](#r%C3%A9alisations-2025)
+- [Galerie](#galerie)
 
 # Robotique UdeS – Rovus
 
@@ -132,4 +140,4 @@ L’objectif de l’année 2025 était d’améliorer la fiabilité et d’optim
 
 --------------------------------------------------------------------------------
 
-[↩ Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index)

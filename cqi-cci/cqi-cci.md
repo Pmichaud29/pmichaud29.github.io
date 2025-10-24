@@ -1,4 +1,4 @@
-[↩ Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index)
 
 --------------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ Voici quelques vidéos de la solution robotique concu en 8 heures qui a gagné l
 
 --------------------------------------------------------------------------------
 
-[↩ Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index)

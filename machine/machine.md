@@ -1,4 +1,4 @@
-[↩ Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index)
 
 --------------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Voici la vidéo de présentation:
 
 --------------------------------------------------------------------------------
 
-[↩ Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index)

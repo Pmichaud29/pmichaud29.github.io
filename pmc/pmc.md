@@ -1,4 +1,4 @@
-[↩ Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index)
 
 --------------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ J’ai occupé le rôle de responsable de l’architecture informatique au sein 
 
 --------------------------------------------------------------------------------
 
-[↩ Retour à l’accueil](/index.html)
+[↩ Retour à l’accueil](/index)
