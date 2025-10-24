@@ -6,10 +6,11 @@
 
 ### Table des matières
 
-- [C'est quoi La Machine ?](#cest-quoi-la-machine-)
-- [Résultat](#r%C3%A9sultat)
+- [Qu'est-ce que La Machine ?](#quest-ce-que-la-machine-)
+- [Résultats](#r%C3%A9sultats)
 - [Mon rôle dans l'équipe de Sherbrooke 2024](#mon-r%C3%B4le-dans-l%C3%A9quipe-de-sherbrooke-2024)
 - [Mon rôle dans l'équipe de Sherbrooke 2025](#mon-r%C3%B4le-dans-l%C3%A9quipe-de-sherbrooke-2025)
+
 
 ## Qu'est-ce que *La Machine* ?
 
@@ -17,8 +18,8 @@
 
 ## Résultats
 
-- JDG-2025: 🥇 1ère place 
-- JDG-2024: 🥇 1ère place
+- 2025: 🥇 1ère place 
+- 2024: 🥇 1ère place
 
 ## Mon rôle dans l'équipe de Sherbrooke 2024
 
