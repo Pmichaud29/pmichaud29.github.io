@@ -4,14 +4,21 @@
 
 # Jeux de génie - La Machine
 
-## C'est quoi La Machine ?
+### Table des matières
+
+- [C'est quoi La Machine ?](#cest-quoi-la-machine-)
+- [Résultat](#r%C3%A9sultat)
+- [Mon rôle dans l'équipe de Sherbrooke 2024](#mon-r%C3%B4le-dans-l%C3%A9quipe-de-sherbrooke-2024)
+- [Mon rôle dans l'équipe de Sherbrooke 2025](#mon-r%C3%B4le-dans-l%C3%A9quipe-de-sherbrooke-2025)
+
+## Qu'est-ce que *La Machine* ?
 
 "[La] Machine est un défi parmi les plus difficiles à relever lors des Jeux de Génie. Le but : fabriquer une machine robotique intelligente qui surmontera les diverses épreuves d'un parcours prédéterminé en un temps donné. Durant les quatre mois précédant l'évènement, les équipes devront y mettre temps, ingéniosité et créativité afin de respecter les attentes des juges tout en respectant les devis. Les personnes participantes devront mettre à profit leurs connaissances acquises en ingénierie en plus d'administrer un budget consacré à l'achat des ressources afin de concrétiser leurs idées devant public et médias." -<https://jeuxdegenie.qc.ca/competitions/>
 
-## Résultat
+## Résultats
 
-- 🥇 1ère place 2024
-- 🥇 1ère place 2025
+- JDG-2025: 🥇 1ère place 
+- JDG-2024: 🥇 1ère place
 
 ## Mon rôle dans l'équipe de Sherbrooke 2024
 
@@ -34,11 +41,9 @@ Responsable de la programmation, j'ai implémenté la majorité des fonctionnali
 
 ## Mon rôle dans l'équipe de Sherbrooke 2025
 
-Pilote et responsable de la programmation, j'ai implémenté tous les fonctionnalitées logicielles des deux robots ainsi que les "mini stations".
+Pilote et responsable de la programmation, j'ai implémenté tous les fonctionnalitées logicielles des deux robots ainsi que les "mini stations". La solution robotique consistait en 2 robots: un pour ramasser les cônes et un pour déployer les cinq mini-stations.
 
-Notre solution robotique consistait en 2 robot: un pour ramasser les cônes et un pour déployer les 5 minis stations
-
-Mes tâches ont consisté à implémenter le contrôles des deux robots Teensy 4.1 ainsi que d'adapter la *code base* Teensy sur ESP32 pour les mini-stations. Le plus gros du travail à été d'optimiser la logique de transfère de passagés (led) manuelle, semi-automatique et automatique ainsi que l'interface de contrôle qui était hébergé sur une des mini-stations.
+Mes tâches ont consisté à implémenter le contrôle des deux robots Teensy 4.1 ainsi que d'adapter la *code base* Teensy sur ESP32 pour les mini-stations. La majeure partie du travail a été d'optimiser la logique de transfert de passagers (led) manuelle, semi-automatique et automatique ainsi que l'interface de contrôle hébergée sur une des mini-stations.
 
 Voici la vidéo de présentation:
 
@@ -48,7 +53,7 @@ Voici la vidéo de présentation:
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="media/interface.png" alt="Interface de contrôle pour la gestin des passagers">
+  <img src="media/interface.png" alt="Interface de contrôle pour la gestion des passagers">
 </div>
 
 ![alt text](media/image.png)

@@ -2,6 +2,8 @@
 
 --------------------------------------------------------------------------------
 
+# Robotique UdeS – Rovus
+
 ### Table des matières
 
 - [Résultats](#r%C3%A9sultats)
@@ -10,10 +12,9 @@
 - [Réalisations 2025](#r%C3%A9alisations-2025)
 - [Galerie](#galerie)
 
-# Robotique UdeS – Rovus
+## Rovus
 
-Depuis 2022, je fais partie du groupe technique Rovus au sein de Robotique UdeS, où nous concevons un rover martien destiné à la compétition [*CIRC*](https://circ.cstag.ca/2024/) en Alberta.  
-Je m’y implique depuis maintenant trois ans, dont les deux dernières à titre de co-directeur du projet ainsi que responsable de l’électronique et de la programmation.
+Depuis 2022, je fais partie du groupe technique Rovus au sein de Robotique UdeS, où l'équipe conçoit un rover martien destiné à la compétition [*CIRC*](https://circ.cstag.ca/2024/) en Alberta. Je m’y implique depuis maintenant trois ans, dont les deux dernières à titre de co-directeur du projet ainsi que responsable de l’électronique et de la programmation.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="media/rover-2025.jpeg" alt="rover 2025" style="height:400px; margin-right: 10px;">
@@ -24,7 +25,7 @@ Je m’y implique depuis maintenant trois ans, dont les deux dernières à titre
 
 - CIRC 2025 : 336 points → 5e place internationale, 2e place canadienne  
 - CIRC 2024 : 147 points → 5e place internationale, 2e place canadienne  
-- CRQRC 2024 : 1re place  
+- CRQRC 2024 (Compétition québecoise de Rover) : 1re place 
 - CIRC 2023 : 154 points → 5e place internationale, 2e place canadienne
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
@@ -46,7 +47,7 @@ Pour l’édition 2023, j’étais responsable du contrôle. Voici quelques tâc
 
 ## Réalisations 2024
 
-Pour l’édition 2024, je suis devenu co-directeur du projet. Voici quelques réalisations dont je suis particulièrement fier :
+Pour l’édition 2024, j'étais co-directeur du projet ainsi que responsable de l’électronique et de la programmation. Voici quelques réalisations dont je suis particulièrement fier :
 
 ### Programmation
 
@@ -68,8 +69,6 @@ Pour l’édition 2024, je suis devenu co-directeur du projet. Voici quelques r�
   <img src="media/Screenshot from 2024-05-20 23-43-10.png" alt="drive bras" style="width:200px; margin-right: 10px;">
   <img src="media/drive27A.jpg" alt="drive bras" style="width:200px;">
 </div>
-
----
 
 - Data distribution board :
   - Communication CanBus  
@@ -94,7 +93,7 @@ Pour l’édition 2024, je suis devenu co-directeur du projet. Voici quelques r�
 
 ## Réalisations 2025
 
-L’objectif de l’année 2025 était d’améliorer la fiabilité et d’optimiser les systèmes existants pour de meilleures performances. Voici mes principales contributions :
+L’objectif de l’année 2025 était d’améliorer la fiabilité et d’optimiser les systèmes existants pour de meilleures performances. Voici mes principales contributions à titre de co-directeur et responsable de l’électronique et de la programmation:
 
 ### Programmation  
 (voir code source [microcontrôleur](https://github.com/robotique-udes/rover_micro) et [ROS](https://github.com/robotique-udes/rover))
@@ -122,7 +121,6 @@ L’objectif de l’année 2025 était d’améliorer la fiabilité et d’optim
 - Refonte complète de la boîte électrique pour réduire son encombrement et son poids : deux fois moins d’espace occupé et quatre fois plus légère.
 
 ## Galerie
---------------------------------------------------------------------------------
 
 ![1391084798-rovus.jpg](media/45ca7d14-44ed-480f-b7ef-cd262474ab6a.jpeg)
 ![alt text](media/1391084798-rovus.jpg)

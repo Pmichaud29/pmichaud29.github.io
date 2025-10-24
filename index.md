@@ -7,9 +7,6 @@
 
 ## Bienvenue
 
-
-
-
 Bienvenue dans mon portfolio ! Vous découvrirez ci-dessous quelques-uns de mes projets de conception en robotique. Ils ont été réalisés en grande partie en équipe, mais les éléments présentés mettent en lumière mes contributions personnelles. Bonne visite!
 
 ## Projets et compétitions
