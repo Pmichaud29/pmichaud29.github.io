@@ -98,7 +98,7 @@ L’objectif de l’année 2025 était d’améliorer la fiabilité et d’optim
 ### Programmation  
 (voir code source [microcontrôleur](https://github.com/robotique-udes/rover_micro) et [ROS](https://github.com/robotique-udes/rover))
 
-- Réécriture de la librairie CanBus 2024 en CRTP selon de meilleures pratiques, augmentant considérablement la vitesse d’exécution → traitement environ 200 000 fois plus rapide (benchmark approximatif).  
+- Réécriture de la librairie CanBus 2024 en CRTP selon de meilleures pratiques, augmentant considérablement la vitesse d’exécution
 - Développement d’un HAL sur mesure en C++ optimisé pour ESP32-S3, utilisant du polymorphisme au temps de compilation grâce aux *concepts* de C++20.  
 - Création d’une librairie commune C++ entre les projets Linux pour uniformiser les modules et renforcer la sécurité mémoire (RAII).  
 - Mise en place d’un pipeline CI/CD et de tests automatisés.  
